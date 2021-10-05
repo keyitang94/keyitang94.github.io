@@ -23,6 +23,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:keyi.tang@jhu.edu"}
   - {title: Github, icon: github, url: "https://github.com/keyitang94"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/keyitang1"}
+  - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/keyi-tang-88a5b5b2/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
