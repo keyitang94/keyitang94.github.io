@@ -16,9 +16,11 @@ show_sidebar: false        # show a sidebar instead of the usual header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {title: "Short Bio", file: "/shortbio.md"}
+  - {title: "Research", file: "/research.md}
+  - {title: "Presentation," file: "/presentation.md"}
+  - {title: "Awards", file: "/awards.md"}
   - {file: "/Keyi.pdf", title: "CV"}
-  - {title: "About me", file:"/aboutme.md"}
-  - {title: "Research"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:keyi.tang@jhu.edu"}
