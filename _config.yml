@@ -16,8 +16,8 @@ show_sidebar: false        # show a sidebar instead of the usual header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "Keyi.pdf", title: "CV"}
-  - {title: "About me"}
+  - {file: "/Keyi.pdf", title: "CV"}
+  - {title: "About me", file:"/aboutme.md"}
   - {title: "Research"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
