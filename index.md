@@ -9,4 +9,3 @@ My research focuses on the political economy of development, with a regional foc
 
 Before coming to SAIS, I graduated from [Nanjing University](https://www.nju.edu.cn/EN/) with a B.A. in English in 2016 and obtained my M.A. in International Studies from the [Hopkins-Nanjing Center](https://sais.jhu.edu/hopkins-nanjing-center) in 2019.
 
-[Spring 2021](https://raw.githubusercontent.com/keyitang94/keyitang94.github.io/master/rsz_1keyi_color_headshot.jpg)
