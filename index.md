@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<img align="left" height="250" padding-right="10px" src="https://raw.githubusercontent.com/keyitang94/keyitang94.github.io/master/rsz_1keyi_color_headshot.jpg">
+<img align="left" height="250" src="https://raw.githubusercontent.com/keyitang94/keyitang94.github.io/master/rsz_1keyi_color_headshot.jpg">
 
 Welcome! I am a Ph.D. candidate at the Johns Hopkins School of Advanced International Studies [(SAIS)](https://sais.jhu.edu/), a Research Affiliate at the Boston University [Global Development Policy Center](https://www.bu.edu/gdp/), and an Oskar Morgenstern fellow at the George Mason University [Mercatus Center](https://www.mercatus.org/).
 
