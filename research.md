@@ -13,3 +13,6 @@ Working Papers:
 
 2021. [“Development Finance and Distributive Politics: Comparing Chinese and World Bank Finance in sub-Saharan Africa."](https://static1.squarespace.com/static/5652847de4b033f56d2bdc29/t/608c2ad5716fc637c6d5fa66/1619798742433/WP+45+%E2%80%93+Tang%2C+Keyi+%E2%80%93+Dev+Finance+Distributive+Pol+China+WB+Africa.pdf) Working Paper No. 2021/45. China Africa Research Initiative, School of Advanced International Studies, Johns Hopkins University, Washington, DC.
 
+Blog Post:
+
+["Evaluating the Impact of China-Financed Power Projects on Electricity Access."](http://www.chinaafricarealstory.com/2021/06/evaluating-impact-of-china-financed.html) The China-Africa Research Initiative Blog. June 10, 2021.
