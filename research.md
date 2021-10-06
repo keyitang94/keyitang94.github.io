@@ -15,4 +15,4 @@ Working Papers:
 
 Blog Post:
 
-["Evaluating the Impact of China-Financed Power Projects on Electricity Access."](http://www.chinaafricarealstory.com/2021/06/evaluating-impact-of-china-financed.html) The China-Africa Research Initiative Blog. June 10, 2021.
+2021. ["Evaluating the Impact of China-Financed Power Projects on Electricity Access."](http://www.chinaafricarealstory.com/2021/06/evaluating-impact-of-china-financed.html) The China-Africa Research Initiative Blog. June 10, 2021.
