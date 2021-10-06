@@ -2,6 +2,7 @@
 layout: page
 title: "Research"
 --- 
+
 Peer-reviewed Journal Article:
 2020. “Do China-Financed Dams in Sub-Saharan Africa Improve the Region’s Social Welfare? A Case Study of the Impacts of Ghana’s Bui Dam.” With Yingjiao Shen. Energy Policy. Vol. 136. https://doi.org/10.1016/j.enpol.2019.111062
 
