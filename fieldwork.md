@@ -6,8 +6,6 @@ Ethiopia
 
 <img src="https://raw.githubusercontent.com/keyitang94/keyitang94.github.io/master/Images/Ethiopia1.jpg">
 
-<img src="https://raw.githubusercontent.com/keyitang94/keyitang94.github.io/master/Images/Ethiopia2.jpg">
-
 <img src="https://raw.githubusercontent.com/keyitang94/keyitang94.github.io/master/Images/Ethiopia3.jpg">
 
 <img src="https://raw.githubusercontent.com/keyitang94/keyitang94.github.io/master/Images/Ethiopia4.jpg">
