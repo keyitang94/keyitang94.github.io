@@ -20,6 +20,6 @@ Vietnam
 
 <img src="https://raw.githubusercontent.com/keyitang94/keyitang94.github.io/master/Images/Vietnam3.jpg">
 
-China-Parkistan Border
+China-Pakistan Border
 
 <img src="https://raw.githubusercontent.com/keyitang94/keyitang94.github.io/master/Images/China-Parksitan%20Border.jpg">
