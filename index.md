@@ -1,5 +1,5 @@
 ---
-google-site-verification: google5a698c5f332034e9.html
+google5a698c5f332034e9.html
 layout: page
 ---
 <p align="center">
