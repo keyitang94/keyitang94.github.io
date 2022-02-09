@@ -38,4 +38,4 @@ plugins:
 url: "https://keyitang94.github.io/" # the base hostname & protocol for your site
 plugins: - jekyll-sitemap
 
-production_url: https://keyitang94.github.io/
+production_url: "https://keyitang94.github.io/"
