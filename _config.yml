@@ -35,7 +35,7 @@ comments:
 plugins:
  - jekyll-feed
 
-url: "https://example.com" # the base hostname & protocol for your site
+url: "https://keyitang94.github.io/" # the base hostname & protocol for your site
 plugins: - jekyll-sitemap
 gems:
   - jekyll-sitemap
