@@ -37,4 +37,4 @@ plugins:
 
 url: "https://keyitang94.github.io/" # the base hostname & protocol for your site
 gems: 
-  - jekyll-sitemap
+     - jekyll-sitemap
