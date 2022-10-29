@@ -9,4 +9,7 @@ Since August, 2019, I have been a researcher contributing to the development of 
 
 **Ghana's Subnational Allocation of Constituency Development Funds (CDFs) between 2001 and 2021**<br/>
 
-The Constituency Development Funds (CDFs) in many African countries are important measures to decentralize public goods and services delivery. In Ghana, starting from 1996, 5% of the annual national budget is distributed through the CDFs to local governments. During my fieldwork to Ghana in 2022, I collected the annual flow of CDFs to all constituencies in Ghana between 2001 and 2021.
+The Constituency Development Funds (CDFs) in many African countries are important measures to decentralize public goods and services delivery. In Ghana, starting from 1996, 5% of the annual national budget is distributed through the CDFs to local governments. During my fieldwork to Ghana in 2022, I collected the annual flow of CDFs to all constituencies in Ghana between 2000 and 2021.
+
+**Ghana's Roads at Constituency and District Level**<br/>
+
