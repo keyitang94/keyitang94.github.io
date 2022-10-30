@@ -13,7 +13,7 @@ The Constituency Development Funds (CDFs) in many African countries are importan
 
 **Ghana's Roads at Constituency and District (ADM2) Level**<br/>
 
-I collected all of Ghana's road projects from 2000 to 2022 at the district and constituency level from the Department of Urban Roads, Department of Rural Roads, and Ghana Highway Authority. The data include information on the year, cost, name, contractor, progress, financier, and location of the road projects.
+I collected all of Ghana's road projects from 2000 to 2022 at the district and constituency level from the Department of Urban Roads, Department of Rural Roads, and Ghana Highway Authority. The data includes information on the year, cost, name, contractor, progress, financier, and location of the road projects.
 
 **Ethiopia's Roads at ADM1 Level**<br/>
 
