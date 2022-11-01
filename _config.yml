@@ -17,11 +17,13 @@ show_sidebar: false        # show a sidebar instead of the usual header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Short Bio", file: "index.md"}
+  - {title: "Dissertation", file: "dissertation.md"}
   - {title: "Research", file: "research.md"}
+  - {title: "Teaching", file: "teaching.md"}
   - {title: "CV", file: "cv.md"}
   - {title: "DATA", file: "data.md"}
   - {title: "Fieldwork", file: "fieldwork.md"}
-
+ 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:keyi.tang@jhu.edu"}
   - {title: Github, icon: github, url: "https://github.com/keyitang94"}
