@@ -23,6 +23,6 @@ I collected Ethiopia's road projects commissioned by the Ethiopian Road Authorit
 
 I collected all of Zambia's road projects by year from 1995 to 2021 from the Road Development Authority of Zambia. The data includes the year, cost, contractor, financier, and the provincial location of the roads.
 
-**Zambia's Public Investment Projects in All Sectors (ADM1)**<br/>
+**Zambia's Public Investment Projects in All Sectors (ADM2)**<br/>
 
 I collected a list of all centrally managed public investment projects between 2012 and 2022 from the Ministry of Finance of Zambia. This includes all projects financed through domestic budget or external loans and grants. The projects include almost all sectors except for energy: health, transport, education, ICT, housing, etc. The data includes the year, cost, contractor, name, cost, progress, disbursement of the funds, as well as the regional location of the projects.
