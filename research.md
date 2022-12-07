@@ -5,7 +5,7 @@ title: "Research"
 
 Peer-reviewed Journal Article:
 
-2022. ["The Political Economy of Special Economic Zones: The Cases of Ethiopia and Vietnam."] (https://www.tandfonline.com/doi/full/10.1080/09692290.2022.2152073) Review of International Political Economy. 2022.
+2022. ["The Political Economy of Special Economic Zones: The Cases of Ethiopia and Vietnam."](https://www.tandfonline.com/doi/full/10.1080/09692290.2022.2152073) Review of International Political Economy. 2022.
 
 2020. [“Do China-Financed Dams in Sub-Saharan Africa Improve the Region’s Social Welfare? A Case Study of the Impacts of Ghana’s Bui Dam.”](https://doi.org/10.1016/j.enpol.2019.111062) With Yingjiao Shen. Energy Policy. (2020). Vol. 136. 
 
