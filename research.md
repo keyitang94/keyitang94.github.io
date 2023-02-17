@@ -17,7 +17,7 @@ Working Papers:
 
 Policy Report in Progress:
 
-Cecilia Springer, Christoph Nedopil, Chris Alden, Cobus Van Staden, and Keyi Tang. “Leveraging Chinese Investments in Africa to Foster Sustainable Growth.” Deutsche Gesellschaft für Internationale Zusammenarbeit (German Agency for International Cooperation) (GIZ) report. 2023.
+2023. Cecilia Springer, Christoph Nedopil, Chris Alden, Cobus Van Staden, and Keyi Tang. “Leveraging Chinese Investments in Africa to Foster Sustainable Growth.” Deutsche Gesellschaft für Internationale Zusammenarbeit (German Agency for International Cooperation) (GIZ) report. 2023.
 
 Blog Post:
 
