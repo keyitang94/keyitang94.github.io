@@ -15,6 +15,10 @@ Working Papers:
 
 2019. [“Lessons from East Asia: Comparing Ethiopia and Vietnam's Early- Stage Special Economic Zone Development.”](https://static1.squarespace.com/static/5652847de4b033f56d2bdc29/t/5cdc2a848165f5c5cfd8ba68/1557932677135/WP-2019-05-Tang-Ethiopia-and-Vietnam-SEZ.pdf) Working Paper No. 2019/5. China Africa Research Initiative, School of Advanced International Studies, Johns Hopkins University, Washington, DC. (Under Review)
 
+Policy Report in Progress:
+
+Cecilia Springer, Christoph Nedopil, Chris Alden, Cobus Van Staden, and Keyi Tang. “Leveraging Chinese Investments in Africa to Foster Sustainable Growth.” Deutsche Gesellschaft für Internationale Zusammenarbeit (German Agency for International Cooperation) (GIZ) report. 2023.
+
 Blog Post:
 
 2021. ["Evaluating the Impact of China-Financed Power Projects on Electricity Access."](http://www.chinaafricarealstory.com/2021/06/evaluating-impact-of-china-financed.html) The China-Africa Research Initiative Blog. June 10, 2021.
