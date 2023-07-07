@@ -9,5 +9,5 @@ Welcome! I am a Postdoctoral Research Fellow at the Boston University [Global De
 
 My research focuses on the international and comparative political economy of development, with a regional focus on sub-Saharan Africa and China. Broadly speaking, I am interested in three topics: (1) the impacts of China's global economic strategy in the Global South; (2) the institutional causes of resource misallocation; (3) the structural transformation of the Global South.
 
-Before my Ph.D., I graduated from [Nanjing University](https://www.nju.edu.cn/EN/) with a B.A. in English in 2016 and obtained my M.A. in International Studies from the [Hopkins-Nanjing Center](https://sais.jhu.edu/hopkins-nanjing-center) in 2019.
+Before my Ph.D. training, I graduated from [Nanjing University](https://www.nju.edu.cn/EN/) with a B.A. in English in 2016 and obtained my M.A. in International Studies from the [Hopkins-Nanjing Center](https://sais.jhu.edu/hopkins-nanjing-center) in 2019.
 
