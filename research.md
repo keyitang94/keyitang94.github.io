@@ -15,9 +15,9 @@ Working Papers:
 
 2019. [“Lessons from East Asia: Comparing Ethiopia and Vietnam's Early-Stage Special Economic Zone Development.”](https://static1.squarespace.com/static/5652847de4b033f56d2bdc29/t/5cdc2a848165f5c5cfd8ba68/1557932677135/WP-2019-05-Tang-Ethiopia-and-Vietnam-SEZ.pdf) Working Paper No. 2019/5. China Africa Research Initiative, School of Advanced International Studies, Johns Hopkins University, Washington, DC. (Under Review)
 
-Policy Report in Progress:
+Policy Report:
 
-2023. Cecilia Springer, Christoph Nedopil, **Keyi Tang**, Chris Alden, and Cobus Van Staden. “Leveraging Chinese Investments in Africa to Foster Sustainable Growth.” Deutsche Gesellschaft für Internationale Zusammenarbeit (German Agency for International Cooperation) (GIZ) report. 2023.
+2023. Cecilia Springer, Christoph Nedopil, **Keyi Tang**, Chris Alden, and Cobus Van Staden. “Leveraging Chinese Investments in Africa to Foster Sustainable Growth.” Deutsche Gesellschaft für Internationale Zusammenarbeit (German Agency for International Cooperation) (GIZ) internal report. 2023.
 
 Blog Post:
 
