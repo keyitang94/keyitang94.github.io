@@ -17,7 +17,7 @@ Working Papers:
 
 Policy Report:
 
-2023. Cecilia Springer, Christoph Nedopil, **Keyi Tang**, Chris Alden, and Cobus Van Staden. “Leveraging Chinese Investments in Africa to Foster Sustainable Growth.” Deutsche Gesellschaft für Internationale Zusammenarbeit (German Agency for International Cooperation) (GIZ) internal report. 2023.
+2023. Cecilia Springer, **Keyi Tang**, Christoph Nedopil, Chris Alden, and Cobus Van Staden. “Elevating ESG: Empirical Lessons on Environmental, Social and Governance Implementation of Chinese Projects in Africa.” Deutsche Gesellschaft für Internationale Zusammenarbeit (German Agency for International Cooperation) (GIZ) internal report. 2023.
 
 Blog Post:
 
