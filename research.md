@@ -17,9 +17,11 @@ Working Papers:
 
 Policy Report:
 
-2023. Cecilia Springer, **Keyi Tang**, Christoph Nedopil, Chris Alden, and Cobus Van Staden. “Elevating ESG: Empirical Lessons on Environmental, Social and Governance Implementation of Chinese Projects in Africa.” German Agency for International Cooperation (GIZ) Internal Report. 2023. 
+2023. Cecilia Springer, **Keyi Tang**, Christoph Nedopil, Chris Alden, and Cobus Van Staden. [“Elevating ESG: Empirical Lessons on Environmental, Social and Governance Implementation of Chinese Projects in Africa.”](https://www.bu.edu/gdp/files/2023/08/GCI_GIZ-Report_2023_FIN.pdf) German Agency for International Cooperation (GIZ) Report. 2023. 
 
 Blog Post:
+
+2023.["What’s the Risk? ESG Lessons from Chinese Projects in Africa"](https://www.bu.edu/gdp/2023/08/30/whats-the-risk-esg-lessons-from-chinese-projects-in-africa/) The Boston University Global Development Policy Center Blog. August 30, 2023.
 
 2023. ["In Crafting Special Economic Zones, Ethiopia and Vietnam Learned from China and Taiwan"](https://chinaglobalsouth.com/analysis/in-crafting-special-economic-zones-ethiopia-and-vietnam-learned-from-china-and-taiwan/) The China-Global South Project. February 28, 2023.
 
