@@ -2,7 +2,7 @@
 layout: page
 ---
 <p align="center">
-  <img src="https://raw.githubusercontent.com/keyitang94/keyitang94.github.io/master/rsz_1keyi_color_headshot.jpg">
+  <img src="https://raw.githubusercontent.com/keyitang94/keyitang94.github.io/master/linkedin photo.jpg">
 </p>
 
 Welcome! I am a Postdoctoral Research Fellow at the Boston University [Global Development Policy Center](https://www.bu.edu/gdp/). I will join the [ESADE business school](https://www.esade.edu/en) in Barcelona as an assistant professor in international relations/global governance in Fall 2024. I received my Ph.D. with distinction at the Johns Hopkins University School of Advanced International Studies [(SAIS)](https://sais.jhu.edu/) in June 2023.
