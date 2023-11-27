@@ -25,7 +25,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Fieldwork", file: "fieldwork.md"}
  
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:keyi.tang@jhu.edu"}
+  - {title: Mail, icon: envelope, url: "mailto:kaytang2014@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/keyitang94"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/keyitang1"}
   - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/keyi-tang-88a5b5b2/"}
