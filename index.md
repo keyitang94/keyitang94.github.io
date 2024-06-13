@@ -12,5 +12,5 @@ My research focuses on the international and comparative political economy of de
 My scholarly work has been featured in academic journals such as the _Review of International Political Economy_ and _Energy Policy_, as well as in media outlets like _The China-Global South Project_, and _South China Morning Post_. Part of my book project won the 2024 Best Graduate Student Paper Award from the International Political Economy Section of the International Studies Association. 
 
 
-Before my Ph.D. training, I graduated from [Nanjing University](https://www.nju.edu.cn/EN/) with a B.A. in English in 2016 and obtained my M.A. in International Studies from the [Hopkins-Nanjing Center](https://sais.jhu.edu/hopkins-nanjing-center) in 2019.
+Before my Ph.D. training, I graduated from [Nanjing University](https://www.nju.edu.cn/en/) with a B.A. in English in 2016 and obtained my M.A. in International Studies from the [Hopkins-Nanjing Center](https://sais.jhu.edu/hopkins-nanjing-center) in 2019.
 
