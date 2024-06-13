@@ -11,6 +11,8 @@ Peer-reviewed Journal Article:
 
 Working Papers:
 
+2024. "Chinese Ties and Low Carbon Industrialization in Africa." With Solomon Owusu and Gideon Ndubuisi. 2024 (Under Review)
+
 2024. ["Stakeholder Participation in Chinese Investment Projects: Implications for Environmental and Social Sustainability in Africa"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4814298) With Christoph Nedopil and Cecilia Springer. 2024. (Under Review)
 
 2024. ["Calculated Capital: The Business Logic Behind Chinese Lending in the Global South"](https://www.bu.edu/gdp/files/2024/03/GCI-WP-034-RBLs-FIN.pdf) Working Paper No. 2024/3. Global China Initiative, Boston University Global Development Policy Center, Boston, MA. (Under Review)
