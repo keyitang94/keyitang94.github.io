@@ -11,7 +11,7 @@ Peer-reviewed Journal Article:
 
 Work in Progress:
 
-2024. "Chinese Ties and Low Carbon Industrialization in Africa." With Solomon Owusu and Gideon Ndubuisi. 2024 (Under Review)
+2024. ["Chinese Ties and Low Carbon Industrialization in Africa"](https://www.bu.edu/gdp/files/2024/07/GCI-WP-37-SO-KT-FIN.pdf) With Solomon Owusu and Gideon Ndubuisi. Working Paper No.37. Global China Initiative, Boston University Global Development Policy Center, Boston, MA. 2024 (Under Review)
 
 2024. ["Stakeholder Participation in Chinese Investment Projects: Implications for Environmental and Social Sustainability in Africa"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4814298) With Christoph Nedopil and Cecilia Springer. 2024. (Under Review)
 
@@ -30,6 +30,8 @@ Policy Report:
 
     
 Blog Post:
+
+2024. ["Chinese Investment in Africa: A Double-Edged Sword for Low-carbon Industrialization"](https://www.bu.edu/gdp/2024/07/28/chinese-investment-in-africa-a-double-edged-sword-for-low-carbon-industrialization/) The Boston University Global Development Policy Center Blog. July 28, 2024.
 
 2023. ["What’s the Risk? ESG Lessons from Chinese Projects in Africa"](https://www.bu.edu/gdp/2023/08/30/whats-the-risk-esg-lessons-from-chinese-projects-in-africa/) The Boston University Global Development Policy Center Blog. August 30, 2023.
 
