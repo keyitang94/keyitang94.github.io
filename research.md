@@ -12,6 +12,7 @@ Peer-reviewed Journal Article:
 Work in Progress:
 
 2024. ["Chinese Ties and Low Carbon Industrialization in Africa"](https://www.bu.edu/gdp/files/2024/07/GCI-WP-37-SO-KT-FIN.pdf) With Solomon Owusu and Gideon Ndubuisi. Working Paper No.37. Global China Initiative, Boston University Global Development Policy Center, Boston, MA. 2024 (Under Review)
+   - Podcast in [China Global South Project](https://chinaglobalsouth.com/podcasts/can-china-help-africa-become-the-next-factory-of-the-world/), September 13, 2024.
 
 2024. ["Stakeholder Participation in Chinese Investment Projects: Implications for Environmental and Social Sustainability in Africa"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4814298) With Christoph Nedopil and Cecilia Springer. 2024. (Under Review)
 
