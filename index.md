@@ -1,9 +1,7 @@
 ---
 layout: page
 ---
-<p>
   <img src="https://raw.githubusercontent.com/keyitang94/keyitang94.github.io/master/ESADE_Profile.JPG" width="300" style="float: left; margin: 0 15px 15px 0;">
-</p>
 
 Welcome! I am an assistant professor in international relations/global governance at the [ESADE Business School](https://www.esade.edu/en) in Barcelona. I received my Ph.D. with distinction at the Johns Hopkins University School of Advanced International Studies [(SAIS)](https://sais.jhu.edu/) in June 2023. From 2022 to 2024 I was a research fellow at the Boston University [Global Development Policy Center](https://www.bu.edu/gdp/).
 
