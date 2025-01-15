@@ -4,7 +4,7 @@ title: "Teaching"
 ---
 
 At ESADE Business School  
-- **Spring 2025 (Instructor):**  
+**Spring 2025 (Instructor):**  
 - Political Economy of Development  
 - International Development  
 
