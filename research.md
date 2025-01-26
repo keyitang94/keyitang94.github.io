@@ -9,7 +9,7 @@ Peer-reviewed Journal Article:
    - [Working Paper No.37.](https://www.bu.edu/gdp/files/2024/07/GCI-WP-37-SO-KT-FIN.pdf) Global China Initiative, Boston University Global Development Policy Center, Boston, MA. 2024
    - Podcast in [China Global South Project](https://chinaglobalsouth.com/podcasts/can-china-help-africa-become-the-next-factory-of-the-world/), September 13, 2024.
 
-2022. ["The Political Economy of Special Economic Zones: The Cases of Ethiopia and Vietnam."](https://www.tandfonline.com/doi/full/10.1080/09692290.2022.2152073) **Review of International Political Economy**. 2022.
+2022. ["The Political Economy of Special Economic Zones: The Cases of Ethiopia and Vietnam."](https://www.tandfonline.com/doi/full/10.1080/09692290.2022.2152073) **Review of International Political Economy**, 30(5), 1957–1983. 2022.
 
 2020. [“Do China-Financed Dams in Sub-Saharan Africa Improve the Region’s Social Welfare? A Case Study of the Impacts of Ghana’s Bui Dam.”](https://doi.org/10.1016/j.enpol.2019.111062) With Yingjiao Shen. **Energy Policy**. (2020). Vol. 136. 
 
