@@ -5,7 +5,7 @@ title: "Research"
 
 Peer-reviewed Journal Article:
 
-2025. "Chinese Ties and Low Carbon Industrialization in Africa"  Solomon Owusu and Gideon Ndubuisi. (2025) Forthcoming at **Energy Economics**
+2025. "Chinese Ties and Low Carbon Industrialization in Africa" With Solomon Owusu and Gideon Ndubuisi. (2025) Forthcoming at **Energy Economics**
    - [Working Paper No.37.](https://www.bu.edu/gdp/files/2024/07/GCI-WP-37-SO-KT-FIN.pdf) Global China Initiative, Boston University Global Development Policy Center, Boston, MA. 2024
    - Podcast in [China Global South Project](https://chinaglobalsouth.com/podcasts/can-china-help-africa-become-the-next-factory-of-the-world/), September 13, 2024.
 
