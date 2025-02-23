@@ -8,8 +8,11 @@ Peer-reviewed Journal Article:
 2025. "Chinese Ties and Low Carbon Industrialization in Africa" With Solomon Owusu and Gideon Ndubuisi. (2025) Forthcoming at **Energy Economics**
    - [Working Paper No.37.](https://www.bu.edu/gdp/files/2024/07/GCI-WP-37-SO-KT-FIN.pdf) Global China Initiative, Boston University Global Development Policy Center, Boston, MA. 2024
    - Podcast in [China Global South Project](https://chinaglobalsouth.com/podcasts/can-china-help-africa-become-the-next-factory-of-the-world/), September 13, 2024.
+   - Blog Post: ["Chinese Investment in Africa: A Double-Edged Sword for Low-carbon Industrialization"](https://www.bu.edu/gdp/2024/07/28/chinese-investment-in-africa-a-double-edged-sword-for-low-carbon-industrialization/). July 28, 2024.
 
 2022. ["The Political Economy of Special Economic Zones: The Cases of Ethiopia and Vietnam."](https://www.tandfonline.com/doi/full/10.1080/09692290.2022.2152073) **Review of International Political Economy**, 30(5), 1957–1983. 2022.
+   - News Report in [The China-Global South Project](https://chinaglobalsouth.com/analysis/in-crafting-special-economic-zones-ethiopia-and-vietnam-learned-from-china-and-taiwan/). February 28, 2023.
+   - Blog Post: ["The Global Diffusion of Special Economic Zones: Evidence from Ethiopia and Vietnam"](https://www.bu.edu/gdp/2023/02/06/the-global-diffusion-of-special-economic-zones-evidence-from-ethiopia-and-vietnam/). February 6, 2023.
 
 2020. [“Do China-Financed Dams in Sub-Saharan Africa Improve the Region’s Social Welfare? A Case Study of the Impacts of Ghana’s Bui Dam.”](https://doi.org/10.1016/j.enpol.2019.111062) With Yingjiao Shen. **Energy Policy**. (2020). Vol. 136. 
 
@@ -29,16 +32,8 @@ Policy Report:
 
 1. Cecilia Springer, **Keyi Tang**, Christoph Nedopil, Chris Alden, and Cobus Van Staden. [“Elevating ESG: Empirical Lessons on Environmental, Social and Governance Implementation of Chinese Projects in Africa.”](https://www.bu.edu/gdp/files/2023/08/GCI_GIZ-Report_2023_FIN.pdf) German Agency for International Cooperation (GIZ) Report. 2023.
    - Quoted by [South China Morning Post](https://www.scmp.com/business/article/3233490/chinese-projects-africa-falling-short-esg-implementation-report), September 5, 2023.
+   - Blog Post: ["What’s the Risk? ESG Lessons from Chinese Projects in Africa"](https://www.bu.edu/gdp/2023/08/30/whats-the-risk-esg-lessons-from-chinese-projects-in-africa/). August 30, 2023.
 
-    
-Blog Post:
-
-2024. ["Chinese Investment in Africa: A Double-Edged Sword for Low-carbon Industrialization"](https://www.bu.edu/gdp/2024/07/28/chinese-investment-in-africa-a-double-edged-sword-for-low-carbon-industrialization/) The Boston University Global Development Policy Center Blog. July 28, 2024.
-
-2023. ["What’s the Risk? ESG Lessons from Chinese Projects in Africa"](https://www.bu.edu/gdp/2023/08/30/whats-the-risk-esg-lessons-from-chinese-projects-in-africa/) The Boston University Global Development Policy Center Blog. August 30, 2023.
-
-2023. ["In Crafting Special Economic Zones, Ethiopia and Vietnam Learned from China and Taiwan"](https://chinaglobalsouth.com/analysis/in-crafting-special-economic-zones-ethiopia-and-vietnam-learned-from-china-and-taiwan/) The China-Global South Project. February 28, 2023.
-
-2023. ["The Global Diffusion of Special Economic Zones: Evidence from Ethiopia and Vietnam"](https://www.bu.edu/gdp/2023/02/06/the-global-diffusion-of-special-economic-zones-evidence-from-ethiopia-and-vietnam/) The Boston University Global Development Policy Center Blog. February 6, 2023.
+Additional Blog Post:
 
 2021. ["Evaluating the Impact of China-Financed Power Projects on Electricity Access."](http://www.chinaafricarealstory.com/2021/06/evaluating-impact-of-china-financed.html) The China-Africa Research Initiative Blog. June 10, 2021.
