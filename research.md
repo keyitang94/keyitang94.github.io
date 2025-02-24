@@ -11,7 +11,7 @@ Peer-reviewed Journal Article:
    - Blog Post: ["Chinese Investment in Africa: A Double-Edged Sword for Low-carbon Industrialization"](https://www.bu.edu/gdp/2024/07/28/chinese-investment-in-africa-a-double-edged-sword-for-low-carbon-industrialization/). July 28, 2024.
 
 2022. ["The Political Economy of Special Economic Zones: The Cases of Ethiopia and Vietnam."](https://www.tandfonline.com/doi/full/10.1080/09692290.2022.2152073) **Review of International Political Economy**, 30(5), 1957–1983. 2022.
-   - News Report in [The China-Global South Project](https://chinaglobalsouth.com/analysis/in-crafting-special-economic-zones-ethiopia-and-vietnam-learned-from-china-and-taiwan/). February 28, 2023.
+   - Op-ed in [The China-Global South Project](https://chinaglobalsouth.com/analysis/in-crafting-special-economic-zones-ethiopia-and-vietnam-learned-from-china-and-taiwan/). February 28, 2023.
    - Blog Post: ["The Global Diffusion of Special Economic Zones: Evidence from Ethiopia and Vietnam"](https://www.bu.edu/gdp/2023/02/06/the-global-diffusion-of-special-economic-zones-evidence-from-ethiopia-and-vietnam/). February 6, 2023.
 
 2020. [“Do China-Financed Dams in Sub-Saharan Africa Improve the Region’s Social Welfare? A Case Study of the Impacts of Ghana’s Bui Dam.”](https://doi.org/10.1016/j.enpol.2019.111062) With Yingjiao Shen. **Energy Policy**. (2020). Vol. 136. 
