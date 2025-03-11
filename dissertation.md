@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Book Project"
+title: "Democracy, Distributive Politics, and Development Finance"
 --- 
 Forthcoming, **_Cambridge University Press_**
 
