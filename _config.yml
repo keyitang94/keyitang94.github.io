@@ -17,8 +17,8 @@ show_sidebar: false        # show a sidebar instead of the usual header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Short Bio", file: "index.md"}
-  - {title: "Book Project", file: "dissertation.md"}
-  - {title: "Research", file: "research.md"}
+  - {title: "Book", file: "dissertation.md"}
+  - {title: "Papers", file: "research.md"}
   - {title: "Teaching", file: "teaching.md"}
   - {title: "CV", file: "cv.md"}
   - {title: "DATA", file: "data.md"}
