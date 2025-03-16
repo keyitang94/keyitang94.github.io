@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Research"
+title: "Papers"
 --- 
 
 Peer-reviewed Journal Article:
