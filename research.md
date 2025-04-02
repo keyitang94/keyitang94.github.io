@@ -27,6 +27,10 @@ Work in Progress:
 
 2025. "Commerce or Coalition: The Geopolitical Analysis of China's Green Belt and Road Initiative." With Sarah Sklar and Min Ye.
 
+2025. "The Political Economy of Foreign Direct Investment in Africa." With Solomon Owusu and Gideon Ndubuisi.
+
+2025. "IMF Programs and Human Rights Violation." With Rodwan Abouharb and Bernhard Reinsberg.
+
 Permanent Working Paper:
 
 2019. [“Lessons from East Asia: Comparing Ethiopia and Vietnam's Early-Stage Special Economic Zone Development.”](https://static1.squarespace.com/static/5652847de4b033f56d2bdc29/t/5cdc2a848165f5c5cfd8ba68/1557932677135/WP-2019-05-Tang-Ethiopia-and-Vietnam-SEZ.pdf) Working Paper No. 2019/5. China Africa Research Initiative, School of Advanced International Studies, Johns Hopkins University, Washington, DC.
