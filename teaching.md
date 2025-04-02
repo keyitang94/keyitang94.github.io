@@ -6,7 +6,7 @@ title: "Teaching"
 At ESADE Business School  
 
 **Spring 2025 (Instructor):**  
-- Political Economy of Development  
+- Political Economy of Development (Evaluation: 6.5/7.0)
 - International Development  
 
 At Johns Hopkins:  
