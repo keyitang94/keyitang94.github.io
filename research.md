@@ -29,6 +29,8 @@ Work in Progress:
 
 2025. "The Political Economy of Foreign Direct Investment in Africa." With Solomon Owusu and Gideon Ndubuisi.
 
+2026. "Contractor-Driven Debt: The Role of Chinese Infrastructure Firms in Shaping Sovereign Lending." With Hong Zhang.
+
 2025. "IMF Programs and Human Rights Violation." With Rodwan Abouharb and Bernhard Reinsberg.
 
 Permanent Working Paper:
