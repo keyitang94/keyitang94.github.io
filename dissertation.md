@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Democracy, Distributive Politics, and Development Finance"
+title: "Power Over Progress: How Politics Shape Development Finance in Africa"
 --- 
 Forthcoming, **_Cambridge University Press_**
 
