@@ -31,7 +31,7 @@ Work in Progress:
 
 2026. "Contractor-Driven Debt: The Role of Chinese Infrastructure Firms in Shaping Sovereign Lending." With Hong Zhang. (Data collection complete, analysis in progress)
 
-2025. "IMF Programs and Human Rights Violation." With Rodwan Abouharb and Bernhard Reinsberg.
+2025. "IMF Programs and Human Rights Violation." With Rodwan Abouharb and Bernhard Reinsberg. (Data collection in progress)
 
 Permanent Working Paper:
 
