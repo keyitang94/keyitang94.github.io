@@ -23,15 +23,15 @@ Work in Progress:
 2024. ["Calculated Capital: The Business Logic Behind Chinese Lending in the Global South"](https://www.bu.edu/gdp/files/2024/03/GCI-WP-034-RBLs-FIN.pdf) Working Paper No. 2024/3. Global China Initiative, Boston University Global Development Policy Center, Boston, MA. (Under Review)
  - Op-ed in [The Wilson Center China Environmental Forum](https://www.newsecuritybeat.org/2025/03/debunking-the-patient-capital-myth-the-reality-of-chinas-resource-backed-lending-practices/). March 27, 2025.
 
-2026. ["Contractor-Supporting Debt: The Role of Chinese Infrastructure Firms in Shaping Sovereign Lending."](https://wp.nyu.edu/sfrn/files/2025/05/Tang-and-Zhang_0525-Keyi-Tang.pdf) With Hong Zhang. (First draft complete, presented at NYU Political Economy of Sovereign Debt Workshop 2025)
+2026. ["Contractor-Supporting Debt: The Role of Chinese Infrastructure Firms in Shaping Sovereign Lending."](https://wp.nyu.edu/sfrn/files/2025/05/Tang-and-Zhang_0525-Keyi-Tang.pdf) With Hong Zhang. (First draft complete, presented at NYU Political Economy of Sovereign Debt Workshop 2025 and Oxford University China Africa (OUCAN) Annual Conference 2025)
 
-2025. "The Electoral Effects of Foreign Aid: Evidence from Sub-National Data." With Axel Dreher, Jingke Pan, and Christina Schneider. (First draft complete, presented at GODAD Workshop 2025)
+2025. "The Electoral Effects of Foreign Aid: Evidence from Sub-National Data." With Axel Dreher, Jingke Pan, and Christina Schneider. (First draft complete, presented at GODAD Workshop 2025 at Gottingen University)
 
-2025. "Power, Profit, or Progress? China’s Clean Energy Investments in the Green Belt and Road Initiative" With Sarah Sklar and Min Ye. (First draft complete, presented at BCNWGG 2025, Joint Hong Kong-Kiel-Göttingen Workshop 2025, and VIPES Workshop 2025 Spring) 
+2025. "Power, Profit, or Progress? China’s Clean Energy Investments in the Green Belt and Road Initiative" With Sarah Sklar and Min Ye. (First draft complete, presented at BCNWGG 2025, Joint Hong Kong-Kiel-Göttingen Workshop 2025, VIPES Workshop 2025 Spring, and APSA 2025 Mini China Conference) 
 
 2025. "The Political Economy of Foreign Direct Investment in Africa." With Solomon Owusu and Gideon Ndubuisi. (Data analysis complete, manuscript drafting in progress)
 
-2025. "IMF Programs and Human Rights Violation." With Rodwan Abouharb and Bernhard Reinsberg. (Data collection in progress)
+2025. "IMF Programs and Human Rights Violations." With Rodwan Abouharb and Bernhard Reinsberg. (Data analysis in progress, to be presented at the EPSA 2025 Annual Conference (Madrid))
 
 Permanent Working Paper:
 
