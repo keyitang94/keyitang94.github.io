@@ -31,7 +31,7 @@ Work in Progress:
 
 2025. "The Political Economy of Foreign Direct Investment in Africa." With Solomon Owusu and Gideon Ndubuisi. (Data analysis in progress)
 
-2025. "IMF Programs and Human Rights Violations." With Rodwan Abouharb and Bernhard Reinsberg. (Data analysis in progress, to be presented at the EPSA 2025 Annual Conference (Madrid))
+2025. "IMF Programs and the Distributional Politics of Human Rights Repression." With Rodwan Abouharb and Bernhard Reinsberg. (Data analysis in progress, to be presented at the EPSA 2025 Annual Conference (Madrid))
 
 Permanent Working Paper:
 
