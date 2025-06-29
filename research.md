@@ -25,13 +25,13 @@ Work in Progress:
 
 2026. ["Contractor-Supporting Debt: The Role of Chinese Infrastructure Firms in Shaping Sovereign Lending."](https://wp.nyu.edu/sfrn/files/2025/05/Tang-and-Zhang_0525-Keyi-Tang.pdf) With Hong Zhang. (First draft complete, presented at NYU Political Economy of Sovereign Debt Workshop 2025 and Oxford University China Africa (OUCAN) Annual Conference 2025)
 
-2025. "The Electoral Effects of Foreign Aid: Evidence from Sub-National Data." With Axel Dreher, Jingke Pan, and Christina Schneider. (First draft complete, presented at GODAD Workshop 2025 at Gottingen University)
+2025. "The Electoral Effects of Foreign Aid: Evidence from Sub-National Data." With Axel Dreher, Jingke Pan, and Christina Schneider. (First draft complete, presented at GODAD Workshop 2025 at Gottingen University, to be presented at 2025 IPES Annual Conference)
 
-2025. "Power, Profit, or Progress? China’s Clean Energy Investments in the Green Belt and Road Initiative" With Sarah Sklar and Min Ye. (First draft complete, presented at BCNWGG 2025, Joint Hong Kong-Kiel-Göttingen Workshop 2025, VIPES Workshop 2025 Spring, and APSA 2025 Mini China Conference) 
+2025. "Power, Profit, or Progress? China’s Clean Energy Investments in the Green Belt and Road Initiative" With Sarah Sklar and Min Ye. (First draft complete, presented at BCNWGG 2025, Joint Hong Kong-Kiel-Göttingen Workshop 2025, VIPES Workshop 2025 Spring, APSA 2025 Mini China Conference, and Korea University Conference on Peace and Democracy in Asia Pacific and the World) 
 
 2025. "The Political Economy of Foreign Direct Investment in Africa." With Solomon Owusu and Gideon Ndubuisi. (Data analysis in progress)
 
-2025. "IMF Programs and the Distributional Politics of Human Rights Repression." With Rodwan Abouharb and Bernhard Reinsberg. (Data analysis in progress, to be presented at the EPSA 2025 Annual Conference (Madrid))
+2025. "IMF Programs and the Distributional Politics of Human Rights Repression." With Rodwan Abouharb and Bernhard Reinsberg. (Data analysis in progress, presented at the EPSA 2025 Annual Conference (Madrid))
 
 Permanent Working Paper:
 
