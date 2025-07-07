@@ -18,7 +18,7 @@ Peer-reviewed Journal Article:
 
 Work in Progress:
 
-2024. ["Stakeholder Participation in Chinese Investment Projects: Implications for Environmental and Social Sustainability in Africa"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4814298) With Christoph Nedopil and Cecilia Springer. 2024. (Under Review)
+2024. ["Contingent Civic Space: Stakeholder Power, Authoritarianism, and Environmental-Social Outcomes in Chinese Special Economic Zones in Africa"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4814298) With Christoph Nedopil and Cecilia Springer. 2024. (Under Review)
 
 2024. ["Calculated Capital: The Business Logic Behind Chinese Lending in the Global South"](https://www.bu.edu/gdp/files/2024/03/GCI-WP-034-RBLs-FIN.pdf) Working Paper No. 2024/3. Global China Initiative, Boston University Global Development Policy Center, Boston, MA. (Under Review)
  - Op-ed in [The Wilson Center China Environmental Forum](https://www.newsecuritybeat.org/2025/03/debunking-the-patient-capital-myth-the-reality-of-chinas-resource-backed-lending-practices/). March 27, 2025.
