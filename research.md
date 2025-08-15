@@ -29,7 +29,7 @@ Work in Progress:
 
 2025. "Power, Profit, or Progress? China’s Clean Energy Investments in the Green Belt and Road Initiative" With Sarah Sklar and Min Ye. (First draft complete, presented at BCNWGG 2025, Joint Hong Kong-Kiel-Göttingen Workshop 2025, VIPES Workshop 2025 Spring, APSA 2025 Mini China Conference, and Korea University Conference on Peace and Democracy in Asia Pacific and the World) 
 
-2025. "The Political Economy of Foreign Direct Investment in Africa." With Solomon Owusu and Gideon Ndubuisi. (Data analysis in progress)
+2025. "Who Gets the Jobs? Political Favoritism in Subnational FDI across Africa." With Solomon Owusu and Gideon Ndubuisi. (Data analysis in progress)
 
 2025. "IMF Programs and the Distributional Politics of Human Rights Repression." With Rodwan Abouharb and Bernhard Reinsberg. (Data analysis in progress, presented at the EPSA 2025 Annual Conference (Madrid))
 
