@@ -4,7 +4,7 @@ title: "Power Over Progress: How Politics Shape Development Finance in Africa"
 --- 
 <img src="https://raw.githubusercontent.com/keyitang94/keyitang94.github.io/master/Images/cover page.jpg" width="300" style="float: left; margin: 0 15px 15px 0;">
 
-Forthcoming in early 2026, **_Cambridge University Press_**
+Forthcoming in early 2026, [**_Cambridge University Press_**](https://www.cambridge.org/core/books/power-over-progress/CEE618F7A939B99982A750C0B2EDF9C0)
 
 Why do some communities gain roads and schools while others languish for decades? This book investigates how external accountability and domestic political competition shape the allocation of billions in development finance across 48 African countries—revealing how aid from China, the World Bank, and Western donors often favors political power over genuine need. Drawing on newly geocoded data of subnational elections and development projects, alongside vivid case studies of Zambia, Ethiopia, and Ghana—backed by 175 elite interviews—it uncovers a counterintuitive truth: heightened political competition can intensify favoritism, diverting funds to strongholds or swing regions rather than the most underserved areas. While traditional donors attempt to curb favoritism through stricter conditions, their efforts are frequently undercut by domestic political incentives. This compelling, data-driven analysis challenges conventional wisdom and offers crucial insights for rethinking development partnerships that truly serve the Global South.
 
