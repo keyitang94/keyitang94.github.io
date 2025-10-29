@@ -26,7 +26,6 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
  
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:keyi.tang@esade.edu"}
-  - {title: Google Scholar, icon: google-scholar, url: "https://scholar.google.com/citations?user=qGraTVoAAAAJ&hl=en&oi=ao"}
   - {title: Github, icon: github, url: "https://github.com/keyitang94"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/keyitang1"}
   - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/keyi-tang-ph-d-88a5b5b2/?originalSubdomain=es"}
