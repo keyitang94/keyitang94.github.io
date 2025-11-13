@@ -29,9 +29,9 @@ Work in Progress:
 
 2025. ["The Electoral Effects of Foreign Aid: Evidence from Sub-National Data."](https://godad.uni-goettingen.de/uploads/papers/Dreher_Pan_Schneider_Tang_2025.pdf) With Axel Dreher, Jingke Pan, and Christina Schneider.(First draft complete, presented at GODAD Workshop 2025 at Gottingen University, to be presented at 2025 IPES Annual Conference)
 
+2025. "IMF Programs and the Distributional Politics of Human Rights Repression." With Rodwan Abouharb and Bernhard Reinsberg. (First draft completed, presented at the EPSA 2025 and to be presented at PEIO 2026)
+      
 2025. "Who Gets the Jobs? Political Favoritism in Subnational FDI across Africa." With Solomon Owusu and Gideon Ndubuisi. (Data analysis in progress)
-
-2025. "IMF Programs and the Distributional Politics of Human Rights Repression." With Rodwan Abouharb and Bernhard Reinsberg. (Data analysis in progress, presented at the EPSA 2025 Annual Conference (Madrid))
 
 Permanent Working Paper:
 
