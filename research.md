@@ -27,7 +27,7 @@ Work in Progress:
       
 2027. ["Contractor-Supporting Debt: The Role of Chinese Infrastructure Firms in Shaping Sovereign Lending."](https://wp.nyu.edu/sfrn/files/2025/05/Tang-and-Zhang_0525-Keyi-Tang.pdf) With Hong Zhang. (First draft complete, presented at NYU Political Economy of Sovereign Debt Workshop 2025 and Oxford University China Africa (OUCAN) Annual Conference 2025)
 
-2025. ["The Electoral Effects of Foreign Aid: Evidence from Sub-National Data."](https://godad.uni-goettingen.de/uploads/papers/Dreher_Pan_Schneider_Tang_2025.pdf) With Axel Dreher, Jingke Pan, and Christina Schneider.(First draft complete, presented at GODAD Workshop 2025 at Gottingen University, to be presented at 2025 IPES Annual Conference)
+2025. ["The Electoral Effects of Foreign Aid: Evidence from Sub-National Data."](https://godad.uni-goettingen.de/uploads/papers/Dreher_Pan_Schneider_Tang_2025.pdf) With Axel Dreher, Jingke Pan, and Christina Schneider.(First draft complete, presented at GODAD Workshop 2025 at Gottingen University, 2025 IPES Annual Conference)
 
 2025. "IMF Programs and the Distributional Politics of Human Rights Repression." With Rodwan Abouharb and Bernhard Reinsberg. (First draft completed, presented at the EPSA 2025 and to be presented at PEIO 2026)
       
