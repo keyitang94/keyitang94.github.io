@@ -1,7 +1,15 @@
 ---
 layout: page
 title: "Data"
---- 
+---
+
+**AEGIS: African Electoral Geography and Incumbent Support Dataset**<br/>
+
+This dataset accompanies my book [*Power Over Progress: How Politics Shape Development Finance in Africa*](https://www.cambridge.org/core/books/power-over-progress/CEE618F7A939B99982A750C0B2EDF9C0). It provides a country-region-year panel covering 48 African countries from 1994 to 2021, including subnational election outcomes, incumbent vote shares, and strategic region classifications used in the book.
+
+[Download the AEGIS dataset package (.zip)](https://www.dropbox.com/scl/fi/p2x1yf36ks7mtoun6perr/AEGIS_dataset_public_release.zip?rlkey=dr5zfyy2p2w7ykjhnouhuromo&st=vj7x05wl&dl=1)
+
+The download includes the dataset in `.xlsx` and `.csv` formats, a source workbook, a PDF codebook, and a README.
 
 **Chinese Loans to Africa (CLA) Database**<br/>
 
