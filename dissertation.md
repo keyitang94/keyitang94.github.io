@@ -10,18 +10,23 @@ Why do some communities gain roads and schools while others languish for decades
 
 _An excerpt from this book manuscript won the Best Graduate Student Paper Award from the International Political Economy Section at the 2024 International Studies Association Annual Conference._
 
-## Related Writing
+## Related Public Writing
 
 I recently wrote a Cambridge University Press blog post related to the book:
 
 [When Elections Meet External Finance: Why Even Good Financiers Fund Political Favoritism](https://cambridgeblog.org/2026/02/when-elections-meet-external-finance-why-even-good-financiers-fund-political-favoritism/)
+
+## Related Podcast
+
+I did a podcast with the China and the Global South Project on the key idea of the book:
+[China and the Hidden Politics of Global Aid](https://chinaglobalsouth.com/podcasts/china-global-development-finance-politics/)
 
 ## Confirmed Book Talks
 
 Confirmed talks and book events include:
 
 - April 2026: Johns Hopkins SAIS, Georgetown University, and the Peterson Institute for International Economics
-- May 2026: European Bank for Reconstruction and Development, University of Oxford, and Peking University
+- May 2026: European Bank for Reconstruction and Development, Overseas Development Institute, University of Oxford, and Peking University
 - June 2026: European Political Science Society Annual Conference Book Roundtable
 
 ## Data
