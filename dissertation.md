@@ -33,6 +33,6 @@ Confirmed talks and book events include:
 
 The book's accompanying dataset is available here:
 
-[Download the AEGIS dataset package (.zip)](https://www.dropbox.com/scl/fi/p2x1yf36ks7mtoun6perr/AEGIS_dataset_public_release.zip?rlkey=dr5zfyy2p2w7ykjhnouhuromo&st=vj7x05wl&dl=1)
+[Download the African Electoral Geography and Incumbent Support Dataset (AEGIS) dataset package (.zip)](https://www.dropbox.com/scl/fi/p2x1yf36ks7mtoun6perr/AEGIS_dataset_public_release.zip?rlkey=dr5zfyy2p2w7ykjhnouhuromo&st=vj7x05wl&dl=1)
 
 The download includes the dataset in `.xlsx` and `.csv` formats, a source workbook, a PDF codebook, and a README.
