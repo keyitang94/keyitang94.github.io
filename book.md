@@ -21,6 +21,9 @@ I recently wrote a Cambridge University Press blog post related to the book:
 I did a podcast with the China and the Global South Project on the key idea of the book:
 [China and the Hidden Politics of Global Aid](https://chinaglobalsouth.com/podcasts/china-global-development-finance-politics/)
 
+## Book Reviews
+[_China Report_](https://journals.sagepub.com/doi/10.1177/00094455261446297)
+
 ## Confirmed Book Talks
 
 Confirmed talks and book events include:
