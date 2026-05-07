@@ -20,7 +20,7 @@ Boston University Global Development Policy Center Policy Brief:
 
 [Why Competitive Politics Can Pull Development Finance Away from Need](https://www.bu.edu/gdp/2026/05/04/why-competitive-politics-can-pull-development-finance-away-from-need/)
 
-## Related Podcast
+## Podcast
 
 China and the Global South Project Podcast:
 
