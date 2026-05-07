@@ -22,7 +22,7 @@ Boston University Global Development Policy Center Policy Brief:
 
 ## Related Podcast
 
-I did a podcast with the China and the Global South Project on the key idea of the book:
+China and the Global South Project Podcast:
 [China and the Hidden Politics of Global Aid](https://chinaglobalsouth.com/podcasts/china-global-development-finance-politics/)
 
 ## Book Reviews
