@@ -12,9 +12,13 @@ _An excerpt from this book manuscript won the Best Graduate Student Paper Award 
 
 ## Related Public Writing
 
-I recently wrote a Cambridge University Press blog post related to the book:
+Cambridge University Press Fifteen Eighty Four Blog Post:
 
 [When Elections Meet External Finance: Why Even Good Financiers Fund Political Favoritism](https://cambridgeblog.org/2026/02/when-elections-meet-external-finance-why-even-good-financiers-fund-political-favoritism/)
+
+Boston University Global Development Policy Center Policy Brief:
+
+[Why Competitive Politics Can Pull Development Finance Away from Need](https://www.bu.edu/gdp/2026/05/04/why-competitive-politics-can-pull-development-finance-away-from-need/)
 
 ## Related Podcast
 
