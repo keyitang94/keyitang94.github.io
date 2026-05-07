@@ -32,8 +32,8 @@ I did a podcast with the China and the Global South Project on the key idea of t
 
 Confirmed talks and book events include:
 
-- April 2026: Johns Hopkins SAIS, Georgetown University, and the Peterson Institute for International Economics
-- May 2026: European Bank for Reconstruction and Development, Overseas Development Institute, University of Oxford, and Peking University
+- April 2026: Johns Hopkins SAIS, Georgetown University, and the Peterson Institute for International Economics (PIIE)
+- May 2026: Barcelona Centre for International Affairs (CIDOB), European Bank for Reconstruction and Development (EBRD), Overseas Development Institute (ODI), University of Oxford, and Peking University
 - June 2026: European Political Science Society Annual Conference Book Roundtable
 
 ## Data
