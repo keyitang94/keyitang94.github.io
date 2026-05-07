@@ -30,7 +30,7 @@ China and the Global South Project Podcast:
 
 ## Confirmed Book Talks
 
-Confirmed talks and book events include:
+Confirmed talks and book events:
 
 - April 2026: Johns Hopkins SAIS, Georgetown University, and the Peterson Institute for International Economics (PIIE)
 - May 2026: Barcelona Centre for International Affairs (CIDOB), European Bank for Reconstruction and Development (EBRD), Overseas Development Institute (ODI), University of Oxford, and Peking University
