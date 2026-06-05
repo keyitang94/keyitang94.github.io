@@ -23,7 +23,7 @@ Work in Progress:
 2024. ["Calculated Capital: The Business Logic Behind Chinese Lending in the Global South"](https://www.bu.edu/gdp/files/2024/03/GCI-WP-034-RBLs-FIN.pdf) Working Paper No. 2024/3. Global China Initiative, Boston University Global Development Policy Center, Boston, MA. (**Revise and Resubmit**)
  - Op-ed in [The Wilson Center China Environmental Forum](https://www.newsecuritybeat.org/2025/03/debunking-the-patient-capital-myth-the-reality-of-chinas-resource-backed-lending-practices/). March 27, 2025.
 
-2025. "Green Belt and Road and China’s Overseas Clean-Power Expansion: Power,
+2025. "Green Belt and Road and China’s Overseas Clean-Energy Expansion: Power,
 Progress, or Profit?" With Sarah Sklar and Min Ye. (Under Review)
       
 2027. ["Delegated Origination: Corporate Influence in Chinese Lending."](https://wp.nyu.edu/sfrn/files/2025/05/Tang-and-Zhang_0525-Keyi-Tang.pdf) With Hong Zhang. (Presented at NYU Political Economy of Sovereign Debt Workshop 2025, Oxford University China Africa (OUCAN) Annual Conference 2025, Princeton Sovereign Debt Conference 2026, HKU Infrastructure Conference 2026)
