@@ -5,7 +5,7 @@ title: "Papers"
 
 Peer-reviewed Journal Article:
 
-2024. "Calculated Capital: The Business Logic Behind Chinese Lending in the Global South" **Forthcoming, Review of International Political Economy**. With David Landry.
+2024. "Calculated Capital: The Business Logic Behind Chinese Lending in the Global South." **Forthcoming, Review of International Political Economy**. With David Landry.
  - Working Paper version: [Working Paper No. 2024/3.](https://www.bu.edu/gdp/files/2024/03/GCI-WP-034-RBLs-FIN.pdf) Global China Initiative, Boston University Global Development Policy Center, Boston, MA. 
  - Op-ed in [The Wilson Center China Environmental Forum](https://www.newsecuritybeat.org/2025/03/debunking-the-patient-capital-myth-the-reality-of-chinas-resource-backed-lending-practices/). March 27, 2025.
 
@@ -18,7 +18,7 @@ Peer-reviewed Journal Article:
    - Op-ed in [The China-Global South Project](https://chinaglobalsouth.com/analysis/in-crafting-special-economic-zones-ethiopia-and-vietnam-learned-from-china-and-taiwan/). February 28, 2023.
    - Blog Post: ["The Global Diffusion of Special Economic Zones: Evidence from Ethiopia and Vietnam"](https://www.bu.edu/gdp/2023/02/06/the-global-diffusion-of-special-economic-zones-evidence-from-ethiopia-and-vietnam/). February 6, 2023.
 
-2020. [“Do China-Financed Dams in Sub-Saharan Africa Improve the Region’s Social Welfare? A Case Study of the Impacts of Ghana’s Bui Dam.”](https://doi.org/10.1016/j.enpol.2019.111062) With Yingjiao Shen. **Energy Policy**. Vol. 136 (January 2020): 111062. https://doi.org/10.1016/j.enpol.2019.111062.
+2020. [“Do China-Financed Dams in Sub-Saharan Africa Improve the Region’s Social Welfare? A Case Study of the Impacts of Ghana’s Bui Dam.”](https://doi.org/10.1016/j.enpol.2019.111062) With Yingjiao Shen. **Energy Policy**. Volume 136, January 2020, 111062.
 
 
 
