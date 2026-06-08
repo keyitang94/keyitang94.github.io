@@ -5,6 +5,10 @@ title: "Papers"
 
 Peer-reviewed Journal Article:
 
+2024. "Calculated Capital: The Business Logic Behind Chinese Lending in the Global South" **Forthcoming, Review of International Political Economy**
+ - Working Paper version: [Working Paper No. 2024/3.](https://www.bu.edu/gdp/files/2024/03/GCI-WP-034-RBLs-FIN.pdf) ) Global China Initiative, Boston University Global Development Policy Center, Boston, MA. 
+ - Op-ed in [The Wilson Center China Environmental Forum](https://www.newsecuritybeat.org/2025/03/debunking-the-patient-capital-myth-the-reality-of-chinas-resource-backed-lending-practices/). March 27, 2025.
+
 2025. ["Chinese Ties and Low Carbon Industrialization in Africa."](https://www.sciencedirect.com/science/article/pii/S0140988325001768) **Energy Economics**, Volume 144, April 2025, 108352. With Solomon Owusu and Gideon Ndubuisi.
    - [Working Paper No.37.](https://www.bu.edu/gdp/files/2024/07/GCI-WP-37-SO-KT-FIN.pdf) Global China Initiative, Boston University Global Development Policy Center, Boston, MA. 2024
    - Podcast in [China Global South Project](https://chinaglobalsouth.com/podcasts/can-china-help-africa-become-the-next-factory-of-the-world/), September 13, 2024.
@@ -19,9 +23,6 @@ Peer-reviewed Journal Article:
 Work in Progress:
 
 2024. ["Contingent Civic Space: Stakeholder Power, Authoritarianism, and Environmental-Social Outcomes in Chinese Special Economic Zones in Africa"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4814298) With Christoph Nedopil and Cecilia Springer. 2024. (Under Review)
-
-2024. ["Calculated Capital: The Business Logic Behind Chinese Lending in the Global South"](https://www.bu.edu/gdp/files/2024/03/GCI-WP-034-RBLs-FIN.pdf) Working Paper No. 2024/3. Global China Initiative, Boston University Global Development Policy Center, Boston, MA. (**Revise and Resubmit**)
- - Op-ed in [The Wilson Center China Environmental Forum](https://www.newsecuritybeat.org/2025/03/debunking-the-patient-capital-myth-the-reality-of-chinas-resource-backed-lending-practices/). March 27, 2025.
 
 2025. "Green Belt and Road and China’s Overseas Clean-Energy Expansion: Power,
 Progress, or Profit?" With Sarah Sklar and Min Ye. (Under Review)
