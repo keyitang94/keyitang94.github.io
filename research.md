@@ -31,7 +31,7 @@ Progress, or Profit?" With Sarah Sklar and Min Ye. (Under Review)
       
 2027. ["Delegated Origination: Corporate Influence in Chinese Lending."](https://wp.nyu.edu/sfrn/files/2025/05/Tang-and-Zhang_0525-Keyi-Tang.pdf) With Hong Zhang. (Presented at NYU Political Economy of Sovereign Debt Workshop 2025, Oxford University China Africa (OUCAN) Annual Conference 2025, Princeton Sovereign Debt Conference 2026, EUI, HKU Infrastructure Conference 2026, PEADA 2026)
 
-2025. ["The Electoral Effects of Foreign Aid: Evidence from Sub-National Data."](https://godad.uni-goettingen.de/uploads/papers/Dreher_Pan_Schneider_Tang_2025.pdf) With Axel Dreher, Jingke Pan, and Christina Schneider.(First draft complete, presented at GODAD Workshop 2025 at Gottingen University, IPES 2025)
+2025. ["The Electoral Effects of Foreign Aid: Evidence from Sub-National Data."](https://godad.uni-goettingen.de/uploads/papers/Dreher_Pan_Schneider_Tang_2025.pdf) With Axel Dreher, Jingke Pan, and Christina Schneider.(Presented at GODAD Workshop 2025, IPES 2025, EPSS 2026)
 
 2025. "IMF Programs and the Distributional Politics of Human Rights Repression." With Rodwan Abouharb and Bernhard Reinsberg. (Draft completed, presented at the EPSA 2025 and PEIO 2026)
       
