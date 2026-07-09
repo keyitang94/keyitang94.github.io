@@ -35,7 +35,7 @@ Confirmed talks and book events:
 
 - April 2026: Johns Hopkins SAIS, Georgetown University, and the Peterson Institute for International Economics (PIIE)
 - May 2026: Barcelona Centre for International Affairs (CIDOB), European Bank for Reconstruction and Development (EBRD), Overseas Development Institute (ODI), University of Oxford, University of International Business and Economics (UIBE), and Peking University
-- June 2026: European Political Science Society Annual Conference Book Roundtable
+- June 2026: European Political Science Society (EPSS) Annual Conference Book Roundtable
 
 ## Data
 
