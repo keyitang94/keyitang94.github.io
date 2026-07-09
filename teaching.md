@@ -5,9 +5,11 @@ title: "Teaching"
 
 At ESADE Business School  
 
-**Spring 2025 (Instructor):**  
-- Political Economy of Development (BBA, Evaluation: 6.5/7.0)
-- International Development (GDL Evaluation: 7.0/7.0; GEL Evaluation: 6.7/7.0) 
+**(Instructor):**  
+- Political Economy of Development (BBA)
+- International Development (GDL, GEL, GBL)
+- Business, Government, and Society (MBA)
+- Geopolitics and Business (Executive MBA)
 
 At Johns Hopkins:  
 - **Winter 2022 (Instructor):** “China in Africa: Neo-Colonialism or Common Destiny?” International Studies Program, Krieger School of Arts and Sciences, Johns Hopkins University  
