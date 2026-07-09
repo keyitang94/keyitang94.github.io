@@ -3,9 +3,7 @@ layout: page
 title: "Teaching"
 ---
 
-At ESADE Business School  
-
-**(Instructor):**  
+At ESADE Business School  **(Instructor):**  
 - Political Economy of Development (BBA)
 - International Development (GDL, GEL, GBL)
 - Business, Government, and Society (MBA)
