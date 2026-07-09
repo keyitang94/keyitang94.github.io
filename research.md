@@ -5,7 +5,7 @@ title: "Papers"
 
 Peer-reviewed Journal Article:
 
-2024. "Calculated Capital: The Business Logic Behind Chinese Lending in the Global South." **Forthcoming, Review of International Political Economy**. With David Landry.
+2024. ["Calculated Capital: The Business Logic Behind Chinese Lending in the Global South."](https://doi.org/10.1080/09692290.2026.2696449) **Review of International Political Economy**, July 9, 2026. With David Landry.
  - Working Paper version: [Working Paper No. 2024/3.](https://www.bu.edu/gdp/files/2024/03/GCI-WP-034-RBLs-FIN.pdf) Global China Initiative, Boston University Global Development Policy Center, Boston, MA. 
  - Op-ed in [The Wilson Center China Environmental Forum](https://www.newsecuritybeat.org/2025/03/debunking-the-patient-capital-myth-the-reality-of-chinas-resource-backed-lending-practices/). March 27, 2025.
 
