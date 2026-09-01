@@ -22,6 +22,10 @@ Boston University Global Development Policy Center Policy Brief:
 
 ## Podcast
 
+Belt and Road Podcast:
+
+[The Politics of Development Project Selection: China, OECD finance and Local Political Geography in Africa](https://www.buzzsprout.com/196316/episodes/19652537-keyi-tang-on-chinese-development-finance)
+
 China and the Global South Project Podcast:
 
 [China and the Hidden Politics of Global Aid](https://chinaglobalsouth.com/podcasts/china-global-development-finance-politics/)
