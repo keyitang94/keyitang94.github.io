@@ -24,7 +24,7 @@ Peer-reviewed Journal Article:
 
 Work in Progress:
 
-2027. ["Delegated Origination: Corporate Influence in Chinese Lending."](https://wp.nyu.edu/sfrn/files/2025/05/Tang-and-Zhang_0525-Keyi-Tang.pdf) With Hong Zhang. (Under review)
+2027. ["Delegated Origination: Corporate Influence in Chinese Lending."](https://docs.aiddata.org/ad4/pdfs/WPS143_Delegated_Origination__Corporate_Influence_in_Chinese_Lending.pdf) With Hong Zhang. (Under review)
 
 2025. "IMF Programs and the Distributional Politics of Human Rights Repression." With Rodwan Abouharb and Bernhard Reinsberg. (Under Review)
       
