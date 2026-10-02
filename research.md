@@ -28,7 +28,7 @@ Work in Progress:
 
 2025. "IMF Programs and the Distributional Politics of Human Rights Repression." With Rodwan Abouharb and Bernhard Reinsberg. (Under Review)
       
-2024. ["Contingent Civic Space: Stakeholder Power, Authoritarianism, and Environmental-Social Outcomes in Chinese Special Economic Zones in Africa"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4814298) With Christoph Nedopil and Cecilia Springer. 2024. (Under Review)
+2024. ["Contingent Civic Space: Stakeholder Power, Authoritarianism, and Environmental-Social Outcomes in Chinese Special Economic Zones in Africa"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4814298) With Christoph Nedopil and Cecilia Springer. (Revise and Resubmit)
 
 2025. "Green Belt and Road and China’s Overseas Clean-Energy Expansion: Power,
 Progress, or Profit?" With Sarah Sklar and Min Ye. (Under Review)
