@@ -31,7 +31,7 @@ Work in Progress:
 2024. ["Contingent Civic Space: Stakeholder Power, Authoritarianism, and Environmental-Social Outcomes in Chinese Special Economic Zones in Africa"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4814298) With Christoph Nedopil and Cecilia Springer. (Revise and Resubmit)
 
 2025. "Green Belt and Road and China’s Overseas Clean-Energy Expansion: Power,
-Progress, or Profit?" With Sarah Sklar and Min Ye. (Under Review)
+Progress, or Profit?" With Sarah Sklar and Min Ye.
       
 2025. ["The Electoral Effects of Foreign Aid: Evidence from Sub-National Data."](https://godad.uni-goettingen.de/uploads/papers/Dreher_Pan_Schneider_Tang_2025.pdf) With Axel Dreher, Jingke Pan, and Christina Schneider.(Presented at GODAD Workshop 2025, IPES 2025, EPSS 2026)
     
