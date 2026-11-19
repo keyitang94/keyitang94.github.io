@@ -33,11 +33,11 @@ Work in Progress:
 2025. "Green Belt and Road and China’s Overseas Clean-Energy Expansion: Power,
 Progress, or Profit?" With Sarah Sklar and Min Ye.
       
-2025. ["The Electoral Effects of Foreign Aid: Evidence from Sub-National Data."](https://godad.uni-goettingen.de/uploads/papers/Dreher_Pan_Schneider_Tang_2025.pdf) With Axel Dreher, Jingke Pan, and Christina Schneider.(Presented at GODAD Workshop 2025, IPES 2025, EPSS 2026)
+2025. ["The Electoral Effects of Foreign Aid: Evidence from Sub-National Data."](https://godad.uni-goettingen.de/uploads/papers/Dreher_Pan_Schneider_Tang_2025.pdf) With Axel Dreher, Jingke Pan, and Christina Schneider.(Presented at GODAD Workshop 2025, IPES 2025, EPSS 2026, APSA 2026)
     
-2025. "Who Gets the Jobs? Political Favoritism in Subnational FDI across Africa." With Solomon Owusu and Gideon Ndubuisi. (To be present at APSA 2026)
+2025. "Who Gets the Jobs? Political Favoritism in Subnational FDI across Africa." With Solomon Owusu and Gideon Ndubuisi. (Presented at APSA 2026)
 
-2026. "Financing for Votes: Electoral Incentives and Creditor Choice in Public Investment." With Alicia Chen. (Presented at HKU Infrastructure Conference 2026)
+2026. "Financing for Votes: Electoral Incentives and Creditor Choice in Public Investment." With Alicia Chen. (Presented at HKU Infrastructure Conference 2026， MESS 2026)
 
 Permanent Working Paper:
 
